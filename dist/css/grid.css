@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.col-6 {
+    width: calc(50% - 20px);
+    margin: 0 10px;
+}
